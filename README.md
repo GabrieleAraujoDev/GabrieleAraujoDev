@@ -119,4 +119,8 @@ Atualmente, trabalho como desenvolvedora fullstack, com foco em C#/.NET, estrutu
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAraujoDev&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=15" />
 </div>
 
-![snake gif](https://github.com/GabrieleAraujoDev/GabrieleAraujoDev/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrieleAraujoDev/GabrieleAraujoDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrieleAraujoDev/GabrieleAraujoDev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GabrieleAraujoDev/GabrieleAraujoDev/output/github-snake.svg" />
+</picture>
