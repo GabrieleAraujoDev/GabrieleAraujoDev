@@ -112,9 +112,15 @@ Atualmente, trabalho como desenvolvedora fullstack, com foco em C#/.NET, estrutu
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAraujoDev&show_icons=true&theme=tokyonight&include_all_commits" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAraujoDev&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=15" />
 </div>
+
+---
+
+![snake gif](https://github.com/GabrieleAraujoDev/GabrieleAraujoDev/blob/output/github-contribution-grid-snake.gif)
