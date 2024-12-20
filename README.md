@@ -5,6 +5,8 @@
 👋 Me chamo Gabriele Araújo e sou apaixonada por tecnologia! Sou formada em Sistemas de Informação pela Universidade Federal de Ouro Preto, onde desenvolvi uma base sólida em desenvolvimento de sistemas e tecnologia da informação.
 Atualmente, trabalho como desenvolvedora fullstack, com foco em C#/.NET, estruturação de bancos de dados e implementação de melhorias em sistemas, tenho experiência em otimizar processos e garantir a eficiência de soluções tecnológicas.
 
+Confira também meu GitHub Universitário, onde estão reunidos todos os projetos que desenvolvi durante a graduação. No entanto, atualmente, não tenho mais acesso à conta: [GitHub Gabriele-Araujo](https://github.com/Gabriele-Araujo).
+
 <p align="left">
     <a href="https://github.com/GabrieleAraujoDev?tab=repositories&sort=stargazers">
         <img 
