@@ -63,6 +63,38 @@ Confira também meu GitHub Universitário, onde estão reunidos todos os projeto
     />
     <img 
         align="left" 
+        alt="React" 
+        title="React" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="Angular" 
+        title="Angular" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="PHP" 
+        title="PHP" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="Laravel" 
+        title="Laravel" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+    />
+    <img 
+        align="left" 
         alt="Bootstrap" 
         title="Bootstrap" 
         width="30px" 
@@ -103,11 +135,43 @@ Confira também meu GitHub Universitário, onde estão reunidos todos os projeto
     />
     <img 
         align="left" 
+        alt="MySQL" 
+        title="MySQL" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    />
+    <img 
+        align="left" 
         alt="Git" 
         title="Git" 
         width="30px" 
         style="padding-right: 10px; vertical-align: middle;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="AWS" 
+        title="AWS" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    />
+    <img 
+        align="left" 
+        alt="Json" 
+        title="Json" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="Postman" 
+        title="Postman" 
+        width="30px" 
+        style="padding-right: 10px; vertical-align: middle;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
     />
 </p>
 
